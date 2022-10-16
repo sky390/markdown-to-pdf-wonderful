@@ -12,7 +12,7 @@
 
 # 数据
 
-我已经把代码和样例 Markdown 文件，都为你放在了[这个 github repo ](https://github.com/wshuyi/demo-batch-markdown-to-pdf)中。
+我已经把代码和样例 Markdown 文件，都为你放在了[这个 Github Repo](https://github.com/wshuyi/demo-batch-markdown-to-pdf) 中。
 
 ![](http://upload-images.jianshu.io/upload_images/64542-58fd5ef11593f6a5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -146,7 +146,7 @@ tinytex 就安装好了。
 之后，为了能够更好地辅助我们进行转换，需要执行下列命令，安装扩展：
 
 ```bash
-tlmgr install unicode-math filehook xecjk xltxtra realscripts fancyhdr lastpage ctex ms cjk ulem environ trimspaces zhnumber collection-fontsrecommended
+tlmgr install unicode-math grffile filehook xecjk xltxtra realscripts fancyhdr lastpage ctex ms cjk ulem environ trimspaces zhnumber collection-fontsrecommended
 ```
 
 好了，至此准备工作结束，我们该开始执行命令了。
